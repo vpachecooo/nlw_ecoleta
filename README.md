@@ -2,13 +2,13 @@
 
 Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente.
 
-Projeto Ecoleta, desenvolvido durante a **NLW - Next Level Week**, de 01/06 a 07/06/20, oferecida pela [Rocketseat](rs).
+Projeto Ecoleta, desenvolvido durante a **NLW - Next Level Week**, de 01/06 a 07/06/20, oferecida pela Rocketseat - https://rocketseat.com.br.
 
 ## Este projeto é constituído por:
 
-1. Back End, disponível na pasta /server, desenvolvido em [Node.js][nodejs] 
-2. Front End, disponível na pasta /web, desenvolvido em [React][reactjs]
-3. Mobile, disponível na pasta /mobile, desenvolvido em [React Native][rn]
+1. Back End, disponível na pasta /server, desenvolvido em Node.js.
+2. Front End, disponível na pasta /web, desenvolvido em React.
+3. Mobile, disponível na pasta /mobile, desenvolvido em React Native.
 
 ### Como rodar o Back End:
 
@@ -59,9 +59,3 @@ $ npm start
 Este projeto esta sobe a licença MIT. Veja o arquivo LICENSE.md para mais detalhes.
 
 Feito por Victor Pacheco
-
-[nodejs]: https://nodejs.org/
-[reactjs]: https://reactjs.org
-[rn]: https://facebook.github.io/react-native/
-[license]: https://opensource.org/licenses/MIT
-[rs]: https://rocketseat.com.br
